@@ -1,0 +1,13 @@
+console.time('somefunction')
+
+function measureTime () {
+	for (i = 0; i < 500; i++) {
+		console.log('buttpee')
+	}
+	console.log('suck itdsfdsdfsdfdsdasdasdsadsadfkfkfkfkfkfkfkfkfkfkfkfkfkfkf')
+
+}
+
+measureTime()
+
+console.timeEnd('somefunction')
